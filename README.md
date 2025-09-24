@@ -240,7 +240,7 @@ Commit messages **must** use the [Conventional Commits](https://www.conventional
 
 ```
 <type>[optional scope]: <description>
-
+ 
 [optional body]
 
 [optional footer(s)]
